@@ -22,9 +22,9 @@ To setup this repository, simply download the files top your local machine and u
 
 The image below shows the logic printed in the console:
 
-![Intended landing page screenshot](https://github.com/ibanezlewis/bootstrap-portfolio/blob/main/images/readme-image.png)
+![Intended landing page screenshot](https://github.com/ibanezlewis/Console-FInances/blob/main/example.png)
 
-You can [view the landing page here](https://ibanezlewis.github.io/bootstrap-portfolio/).
+You can [view the landing page here](https://ibanezlewis.github.io/Console-FInances/).
 
 ## Credits
 
